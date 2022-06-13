@@ -1,0 +1,14 @@
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\bin\Debug\3_view.exe.config
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\bin\Debug\3_view.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\bin\Debug\3_view.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\bin\Debug\3_model.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\bin\Debug\3_model.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\_3_view.AddOrEditForm.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\_3_view.MainForm.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\_3_view.Properties.Resources.resources
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.csproj.CopyComplete
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.exe
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\3_view\obj\Debug\3_view.pdb
