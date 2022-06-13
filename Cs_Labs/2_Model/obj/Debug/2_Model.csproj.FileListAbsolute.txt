@@ -1,0 +1,5 @@
+C:\Users\zagor\Desktop\Cs_Labs\2_Model\bin\Debug\2_Model.dll
+C:\Users\zagor\Desktop\Cs_Labs\2_Model\bin\Debug\2_Model.pdb
+C:\Users\zagor\Desktop\Cs_Labs\2_Model\obj\Debug\2_Model.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\Cs_Labs\2_Model\obj\Debug\2_Model.dll
+C:\Users\zagor\Desktop\Cs_Labs\2_Model\obj\Debug\2_Model.pdb

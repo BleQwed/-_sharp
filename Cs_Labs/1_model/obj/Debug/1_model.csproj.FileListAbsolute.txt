@@ -1,0 +1,6 @@
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\bin\Debug\1_model.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\bin\Debug\1_model.pdb
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\obj\Debug\1_model.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\obj\Debug\1_model.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\obj\Debug\1_model.dll
+C:\Users\zagor\Desktop\ГОТОВЫЕ ЛАБЫ\влад\Cs_Labs\1_model\obj\Debug\1_model.pdb
